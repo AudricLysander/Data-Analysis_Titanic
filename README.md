@@ -13,21 +13,21 @@ Dataset Source: https://raw.githubusercontent.com/mwaskom/seaborn-data/master/ti
 At this stage, data exploration will be carried out which includes preprocessing. So that every feature of the explored data will be clean from Null Values and each feature will have a data type that matches the data dictionary. Data exploration is carried out in several stages and is carried out based on data groups.
 
 ## Feature Description
-survive = Passengers who are survive or not survive
-pclass = Class of ticket
-sex = Passenger gender
-age = Passenger age in years
-sibsp = # of siblings / spouses aboard the Titanic
-parch = # of parents / children aboard the Titanic
-fare = Passenger fare
-embarked = Port of Embarktion
-class = Class of ticket
-who = Call for passengers
-adult_male = Adult male passenger
-deck = Passenger deck
-embarked = Port of Embarktion
-alive = Passengers who are survive or not survive
-alone = Single passenger
+- survive = Passengers who are survive or not survive
+- pclass = Class of ticket
+- sex = Passenger gender
+- age = Passenger age in years
+- sibsp = # of siblings / spouses aboard the Titanic
+- parch = # of parents / children aboard the Titanic
+- fare = Passenger fare
+- embarked = Port of Embarktion
+- class = Class of ticket
+- who = Call for passengers
+- adult_male = Adult male passenger
+- deck = Passenger deck
+- embarked = Port of Embarktion
+- alive = Passengers who are survive or not survive
+- alone = Single passenger
 
 ## Summary
 1. The Titanic passengers who did not survive were 62% (549 passengers) and those who survived were 38% (340 passengers) with a total of 889 passengers.
